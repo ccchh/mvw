@@ -63,7 +63,8 @@
 * Mitgliedsstatus (Vollzahler/Ehrenmitglied/Ermäßigt)
 * Datum Ausgetreten
 * Konto-Guthaben
-* ... 
+* Keine Datenschleuder
+* ...
 
 ### DS-Mitglied
 * Chaosnummer (PK)
