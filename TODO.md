@@ -21,6 +21,8 @@
   * Getrennter Service
   * Lagerung der Daten?
 * Mahnläufe
+* Advanced PGP-Key-Handling
+  * Automatisches Signing und Crypting von Mails, falls PGP Key vorhanden
 
 ### Ausbaustufe 3
 * Config im Backend ändern
